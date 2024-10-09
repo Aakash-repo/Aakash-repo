@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-repo&label=You%20Visited%20after&color=27ac0c&style=flat-square" alt="aakash-repo" /> </p>
-
+<!-- <img align="right" style = "padding-top=200px;" alt="Code" width="200" src="https://github.com/Aakash-repo/Aakash-repo/blob/c6b1369dd65458a465e0801dd6617d450469e226/coder.gif"> -->
 - 🔭 I’m currently working on **SMART INDIA HACKATHON PROJECT**
 
 - 🌱 I’m currently learning **Java & React**
