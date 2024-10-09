@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **aakashmuthusamy.m@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aakash-javadeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-javadeveloper" height="30" width="40" /></a>
+
+<!-- <p align="left"> -->
+<!-- <a href="https://linkedin.com/in/aakash-javadeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-javadeveloper" height="30" width="40" /></a> -->
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +33,4 @@
  
  </p>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-repo&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="aakash-repo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-repo&theme=dark" alt="aakash-repo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-repo&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="aakash-repo" /></p> <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-repo&theme=dark" alt="aakash-repo" /></p>
