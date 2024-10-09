@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm AAKASH M</h1>
+<div align="center"> <img src="https://github.com/Aakash-repo/Aakash-repo/blob/3c9f3936a672d52773806adde3aea7dab7befa1d/Banner.png"> </div>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-repo&label=You%20Visited%20after&color=27ac0c&style=flat-square" alt="aakash-repo" /> </p>
